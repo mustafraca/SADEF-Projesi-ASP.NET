@@ -1,0 +1,96 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="_153531038.SiteMaster" %>
+
+<!DOCTYPE html>
+
+<html lang="tr">
+<head runat="server">
+		<title>AYP</title>
+		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+		<meta name="description" content="" />
+		<meta name="keywords" content="" />
+		<link href='http://fonts.googleapis.com/css?family=Raleway:400,100,200,300,500,600,700,800,900' rel='stylesheet' type='text/css'>
+		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+		<script src="js/skel.min.js"></script>
+		<script src="js/skel-panels.min.js"></script>
+		<script src="js/init.js"></script>
+		<noscript>
+			<link rel="stylesheet" href="css/skel-noscript.css" />
+			<link rel="stylesheet" href="css/style.css" />
+			<link rel="stylesheet" href="css/style-desktop.css" />
+		</noscript>
+</head>
+<body>
+    <form runat="server">
+        <div id="header-wrapper">
+			<div id="header">
+				<div class="container">
+					<div id="logo">
+						<h1 style="font-variant-caps:petite-caps; font-family:Garamond; font-size:42px"><a href="Default.aspx">AYP</a></h1>
+					</div>
+					<nav id="nav">
+						<ul>
+						    <li><a href="Default.aspx">ANASAYFA</a></li>
+							<li><a href="MusteriListesi.aspx">MÜŞTERİ LİSTESİ</a></li>
+							<li><a href="MusteriK.aspx">KAYIT</a></li>
+							<li><a href="MusteriG.aspx">GÜNCELLEME</a></li>
+                            <li><a href="MusteriKS.aspx">KAYIT SİLME</a></li>
+                            <li><a href="MYedekParca.aspx">YEDEK PARÇA</a></li>
+                            <li><a href="Hakkimizda.aspx">H&İ</a></li>
+						</ul>
+					</nav>	
+				</div>
+			</div>
+			<div id="banner">
+				<div class="container">
+					<section>
+                        <span><a class="image small" href="MusteriListesi.aspx"><img src="images/logo.png" alt="Müşteri Listesine Gider"></a></span>
+						<header>
+							<span class="fa-4x">AYP</span>
+							<span class="byline">BİR ARAÇ YEDEK PARÇA PROGRAMIDIR.</span>
+                            BİLGİLERİ SANAL ORTAMDA TUTARAK WEB TARAYICI İLE KOLAYCA ULAŞABİLMENİZİ SAĞLAR.
+						</header>
+					</section>	
+				</div>
+			</div>
+	    </div>
+        <div id="main">
+        <asp:ContentPlaceHolder ID="MainContent" runat="server">
+
+        </asp:ContentPlaceHolder>
+        </div>
+		<div id="featured">
+			<div class="container">
+				<section>
+					<header>
+						<h2>SIK KULLANILAN MENÜ KISAYOLLARI</h2>
+						<span class="byline">Kolayca ulaşın</span>
+					</header>
+				</section>
+				<div class="row">
+					<section class="4u">
+						<a class="image full"><img src="images/3.png" alt=""></a>
+						<p>Müşteri Listesi sayfasına kolay ulaşım sağlar.</p>
+						<p><a href="MusteriListesi.aspx" class="button">GİT</a></p>
+					</section>
+					<section class="4u">
+						<a class="image full"><img src="images/4.png" alt=""></a>
+						<p>Müşteri Kayıt sayfasına kolay ulaşım sağlar.</p>
+						<p><a href="MusteriK.aspx" class="button">GİT</a></p>
+					</section>
+					<section class="4u">
+						<a class="image full"><img src="images/5.png" alt=""></a>
+						<p>Müşteri Kayıt Silme sayfasına kolay ulaşım sağlar.</p>
+						<p><a href="MusteriKS.aspx" class="button">GİT</a></p>
+					</section>
+				</div>
+			</div>
+		</div>
+		<div id="copyright">
+			<div class="container">
+				<a href="Default.aspx">AYP @ <%=DateTime.Now.Year%></a> - Tüm Hakları Saklıdır.
+                Altyapı: Berkin Şengül - Bir KOÜ Projesidir.
+			</div>
+		</div>
+    </form>
+</body>
+</html>

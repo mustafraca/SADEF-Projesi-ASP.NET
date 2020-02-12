@@ -1,0 +1,197 @@
+C:\Users\ACAR\Desktop\153531038\153531038\bin\ApplicationInsights.config
+C:\Users\ACAR\Desktop\153531038\153531038\bin\153531038.dll.config
+C:\Users\ACAR\Desktop\153531038\153531038\bin\153531038.dll
+C:\Users\ACAR\Desktop\153531038\153531038\bin\153531038.pdb
+C:\Users\ACAR\Desktop\153531038\153531038\bin\Antlr3.Runtime.dll
+C:\Users\ACAR\Desktop\153531038\153531038\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\ACAR\Desktop\153531038\153531038\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\ACAR\Desktop\153531038\153531038\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ACAR\Desktop\153531038\153531038\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ACAR\Desktop\153531038\153531038\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ACAR\Desktop\153531038\153531038\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ACAR\Desktop\153531038\153531038\bin\Microsoft.AI.Web.dll
+C:\Users\ACAR\Desktop\153531038\153531038\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ACAR\Desktop\153531038\153531038\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ACAR\Desktop\153531038\153531038\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\ACAR\Desktop\153531038\153531038\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\ACAR\Desktop\153531038\153531038\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ACAR\Desktop\153531038\153531038\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\ACAR\Desktop\153531038\153531038\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\ACAR\Desktop\153531038\153531038\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ACAR\Desktop\153531038\153531038\bin\Newtonsoft.Json.dll
+C:\Users\ACAR\Desktop\153531038\153531038\bin\System.Web.Optimization.dll
+C:\Users\ACAR\Desktop\153531038\153531038\bin\WebGrease.dll
+C:\Users\ACAR\Desktop\153531038\153531038\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ACAR\Desktop\153531038\153531038\bin\System.Web.Optimization.xml
+C:\Users\ACAR\Desktop\153531038\153531038\bin\Antlr3.Runtime.pdb
+C:\Users\ACAR\Desktop\153531038\153531038\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\ACAR\Desktop\153531038\153531038\bin\Newtonsoft.Json.xml
+C:\Users\ACAR\Desktop\153531038\153531038\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ACAR\Desktop\153531038\153531038\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ACAR\Desktop\153531038\153531038\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ACAR\Desktop\153531038\153531038\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ACAR\Desktop\153531038\153531038\bin\Microsoft.AI.Web.xml
+C:\Users\ACAR\Desktop\153531038\153531038\bin\tr\System.Web.Optimization.resources.dll
+C:\Users\ACAR\Desktop\153531038\153531038\bin\tr\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\ACAR\Desktop\153531038\153531038\obj\Debug\153531038.csprojResolveAssemblyReference.cache
+C:\Users\ACAR\Desktop\153531038\153531038\obj\Debug\153531038.csproj.CoreCompileInputs.cache
+C:\Users\ACAR\Desktop\153531038\153531038\obj\Debug\153531038.dll
+C:\Users\ACAR\Desktop\153531038\153531038\obj\Debug\153531038.pdb
+C:\Users\ACAR\Desktop\Berkin\153531038\153531038\bin\ApplicationInsights.config
+C:\Users\ACAR\Desktop\Berkin\153531038\153531038\bin\153531038.dll.config
+C:\Users\ACAR\Desktop\Berkin\153531038\153531038\bin\153531038.dll
+C:\Users\ACAR\Desktop\Berkin\153531038\153531038\bin\153531038.pdb
+C:\Users\ACAR\Desktop\Berkin\153531038\153531038\bin\Antlr3.Runtime.dll
+C:\Users\ACAR\Desktop\Berkin\153531038\153531038\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\ACAR\Desktop\Berkin\153531038\153531038\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\ACAR\Desktop\Berkin\153531038\153531038\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ACAR\Desktop\Berkin\153531038\153531038\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ACAR\Desktop\Berkin\153531038\153531038\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ACAR\Desktop\Berkin\153531038\153531038\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ACAR\Desktop\Berkin\153531038\153531038\bin\Microsoft.AI.Web.dll
+C:\Users\ACAR\Desktop\Berkin\153531038\153531038\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ACAR\Desktop\Berkin\153531038\153531038\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ACAR\Desktop\Berkin\153531038\153531038\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\ACAR\Desktop\Berkin\153531038\153531038\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\ACAR\Desktop\Berkin\153531038\153531038\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ACAR\Desktop\Berkin\153531038\153531038\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\ACAR\Desktop\Berkin\153531038\153531038\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\ACAR\Desktop\Berkin\153531038\153531038\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ACAR\Desktop\Berkin\153531038\153531038\bin\Newtonsoft.Json.dll
+C:\Users\ACAR\Desktop\Berkin\153531038\153531038\bin\System.Web.Optimization.dll
+C:\Users\ACAR\Desktop\Berkin\153531038\153531038\bin\WebGrease.dll
+C:\Users\ACAR\Desktop\Berkin\153531038\153531038\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ACAR\Desktop\Berkin\153531038\153531038\bin\System.Web.Optimization.xml
+C:\Users\ACAR\Desktop\Berkin\153531038\153531038\bin\Antlr3.Runtime.pdb
+C:\Users\ACAR\Desktop\Berkin\153531038\153531038\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\ACAR\Desktop\Berkin\153531038\153531038\bin\Newtonsoft.Json.xml
+C:\Users\ACAR\Desktop\Berkin\153531038\153531038\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ACAR\Desktop\Berkin\153531038\153531038\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ACAR\Desktop\Berkin\153531038\153531038\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ACAR\Desktop\Berkin\153531038\153531038\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ACAR\Desktop\Berkin\153531038\153531038\bin\Microsoft.AI.Web.xml
+C:\Users\ACAR\Desktop\Berkin\153531038\153531038\bin\tr\System.Web.Optimization.resources.dll
+C:\Users\ACAR\Desktop\Berkin\153531038\153531038\bin\tr\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\ACAR\Desktop\Berkin\153531038\153531038\obj\Debug\153531038.csprojResolveAssemblyReference.cache
+C:\Users\ACAR\Desktop\Berkin\153531038\153531038\obj\Debug\153531038.csproj.CoreCompileInputs.cache
+C:\Users\ACAR\Desktop\Berkin\153531038\153531038\obj\Debug\153531038.dll
+C:\Users\ACAR\Desktop\Berkin\153531038\153531038\obj\Debug\153531038.pdb
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\Berkin\Proje\Çalışma\153531038\153531038\bin\ApplicationInsights.config
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\Berkin\Proje\Çalışma\153531038\153531038\bin\153531038.dll.config
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\Berkin\Proje\Çalışma\153531038\153531038\bin\153531038.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\Berkin\Proje\Çalışma\153531038\153531038\bin\153531038.pdb
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\Berkin\Proje\Çalışma\153531038\153531038\bin\Antlr3.Runtime.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\Berkin\Proje\Çalışma\153531038\153531038\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\Berkin\Proje\Çalışma\153531038\153531038\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\Berkin\Proje\Çalışma\153531038\153531038\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\Berkin\Proje\Çalışma\153531038\153531038\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\Berkin\Proje\Çalışma\153531038\153531038\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\Berkin\Proje\Çalışma\153531038\153531038\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\Berkin\Proje\Çalışma\153531038\153531038\bin\Microsoft.AI.Web.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\Berkin\Proje\Çalışma\153531038\153531038\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\Berkin\Proje\Çalışma\153531038\153531038\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\Berkin\Proje\Çalışma\153531038\153531038\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\Berkin\Proje\Çalışma\153531038\153531038\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\Berkin\Proje\Çalışma\153531038\153531038\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\Berkin\Proje\Çalışma\153531038\153531038\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\Berkin\Proje\Çalışma\153531038\153531038\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\Berkin\Proje\Çalışma\153531038\153531038\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\Berkin\Proje\Çalışma\153531038\153531038\bin\Newtonsoft.Json.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\Berkin\Proje\Çalışma\153531038\153531038\bin\System.Web.Optimization.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\Berkin\Proje\Çalışma\153531038\153531038\bin\WebGrease.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\Berkin\Proje\Çalışma\153531038\153531038\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\Berkin\Proje\Çalışma\153531038\153531038\bin\System.Web.Optimization.xml
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\Berkin\Proje\Çalışma\153531038\153531038\bin\Antlr3.Runtime.pdb
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\Berkin\Proje\Çalışma\153531038\153531038\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\Berkin\Proje\Çalışma\153531038\153531038\bin\Newtonsoft.Json.xml
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\Berkin\Proje\Çalışma\153531038\153531038\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\Berkin\Proje\Çalışma\153531038\153531038\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\Berkin\Proje\Çalışma\153531038\153531038\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\Berkin\Proje\Çalışma\153531038\153531038\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\Berkin\Proje\Çalışma\153531038\153531038\bin\Microsoft.AI.Web.xml
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\Berkin\Proje\Çalışma\153531038\153531038\bin\tr\System.Web.Optimization.resources.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\Berkin\Proje\Çalışma\153531038\153531038\bin\tr\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\Berkin\Proje\Çalışma\153531038\153531038\obj\Debug\153531038.csprojResolveAssemblyReference.cache
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\Berkin\Proje\Çalışma\153531038\153531038\obj\Debug\153531038.csproj.CoreCompileInputs.cache
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\Berkin\Proje\Çalışma\153531038\153531038\obj\Debug\153531038.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\Berkin\Proje\Çalışma\153531038\153531038\obj\Debug\153531038.pdb
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Berkin\Proje II\Çalışma\153531038\153531038\bin\ApplicationInsights.config
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Berkin\Proje II\Çalışma\153531038\153531038\bin\153531038.dll.config
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Berkin\Proje II\Çalışma\153531038\153531038\bin\153531038.dll
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Berkin\Proje II\Çalışma\153531038\153531038\bin\153531038.pdb
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Berkin\Proje II\Çalışma\153531038\153531038\bin\Antlr3.Runtime.dll
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Berkin\Proje II\Çalışma\153531038\153531038\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Berkin\Proje II\Çalışma\153531038\153531038\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Berkin\Proje II\Çalışma\153531038\153531038\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Berkin\Proje II\Çalışma\153531038\153531038\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Berkin\Proje II\Çalışma\153531038\153531038\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Berkin\Proje II\Çalışma\153531038\153531038\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Berkin\Proje II\Çalışma\153531038\153531038\bin\Microsoft.AI.Web.dll
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Berkin\Proje II\Çalışma\153531038\153531038\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Berkin\Proje II\Çalışma\153531038\153531038\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Berkin\Proje II\Çalışma\153531038\153531038\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Berkin\Proje II\Çalışma\153531038\153531038\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Berkin\Proje II\Çalışma\153531038\153531038\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Berkin\Proje II\Çalışma\153531038\153531038\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Berkin\Proje II\Çalışma\153531038\153531038\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Berkin\Proje II\Çalışma\153531038\153531038\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Berkin\Proje II\Çalışma\153531038\153531038\bin\Newtonsoft.Json.dll
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Berkin\Proje II\Çalışma\153531038\153531038\bin\System.Web.Optimization.dll
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Berkin\Proje II\Çalışma\153531038\153531038\bin\WebGrease.dll
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Berkin\Proje II\Çalışma\153531038\153531038\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Berkin\Proje II\Çalışma\153531038\153531038\bin\System.Web.Optimization.xml
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Berkin\Proje II\Çalışma\153531038\153531038\bin\Antlr3.Runtime.pdb
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Berkin\Proje II\Çalışma\153531038\153531038\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Berkin\Proje II\Çalışma\153531038\153531038\bin\Newtonsoft.Json.xml
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Berkin\Proje II\Çalışma\153531038\153531038\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Berkin\Proje II\Çalışma\153531038\153531038\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Berkin\Proje II\Çalışma\153531038\153531038\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Berkin\Proje II\Çalışma\153531038\153531038\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Berkin\Proje II\Çalışma\153531038\153531038\bin\Microsoft.AI.Web.xml
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Berkin\Proje II\Çalışma\153531038\153531038\bin\tr\System.Web.Optimization.resources.dll
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Berkin\Proje II\Çalışma\153531038\153531038\bin\tr\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Berkin\Proje II\Çalışma\153531038\153531038\obj\Debug\153531038.csprojAssemblyReference.cache
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Berkin\Proje II\Çalışma\153531038\153531038\obj\Debug\153531038.csproj.CoreCompileInputs.cache
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Berkin\Proje II\Çalışma\153531038\153531038\obj\Debug\153531038.csproj.CopyComplete
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Berkin\Proje II\Çalışma\153531038\153531038\obj\Debug\153531038.dll
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Berkin\Proje II\Çalışma\153531038\153531038\obj\Debug\153531038.pdb
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Berkin\Proje II\Çalışma\153531038\153531038\bin\ApplicationInsights.config
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Berkin\Proje II\Çalışma\153531038\153531038\bin\153531038.dll.config
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Berkin\Proje II\Çalışma\153531038\153531038\bin\153531038.dll
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Berkin\Proje II\Çalışma\153531038\153531038\bin\153531038.pdb
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Berkin\Proje II\Çalışma\153531038\153531038\bin\Antlr3.Runtime.dll
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Berkin\Proje II\Çalışma\153531038\153531038\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Berkin\Proje II\Çalışma\153531038\153531038\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Berkin\Proje II\Çalışma\153531038\153531038\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Berkin\Proje II\Çalışma\153531038\153531038\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Berkin\Proje II\Çalışma\153531038\153531038\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Berkin\Proje II\Çalışma\153531038\153531038\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Berkin\Proje II\Çalışma\153531038\153531038\bin\Microsoft.AI.Web.dll
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Berkin\Proje II\Çalışma\153531038\153531038\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Berkin\Proje II\Çalışma\153531038\153531038\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Berkin\Proje II\Çalışma\153531038\153531038\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Berkin\Proje II\Çalışma\153531038\153531038\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Berkin\Proje II\Çalışma\153531038\153531038\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Berkin\Proje II\Çalışma\153531038\153531038\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Berkin\Proje II\Çalışma\153531038\153531038\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Berkin\Proje II\Çalışma\153531038\153531038\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Berkin\Proje II\Çalışma\153531038\153531038\bin\Newtonsoft.Json.dll
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Berkin\Proje II\Çalışma\153531038\153531038\bin\System.Web.Optimization.dll
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Berkin\Proje II\Çalışma\153531038\153531038\bin\WebGrease.dll
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Berkin\Proje II\Çalışma\153531038\153531038\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Berkin\Proje II\Çalışma\153531038\153531038\bin\System.Web.Optimization.xml
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Berkin\Proje II\Çalışma\153531038\153531038\bin\Antlr3.Runtime.pdb
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Berkin\Proje II\Çalışma\153531038\153531038\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Berkin\Proje II\Çalışma\153531038\153531038\bin\Newtonsoft.Json.xml
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Berkin\Proje II\Çalışma\153531038\153531038\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Berkin\Proje II\Çalışma\153531038\153531038\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Berkin\Proje II\Çalışma\153531038\153531038\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Berkin\Proje II\Çalışma\153531038\153531038\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Berkin\Proje II\Çalışma\153531038\153531038\bin\Microsoft.AI.Web.xml
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Berkin\Proje II\Çalışma\153531038\153531038\bin\tr\System.Web.Optimization.resources.dll
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Berkin\Proje II\Çalışma\153531038\153531038\bin\tr\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Berkin\Proje II\Çalışma\153531038\153531038\obj\Debug\153531038.csprojAssemblyReference.cache
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Berkin\Proje II\Çalışma\153531038\153531038\obj\Debug\153531038.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Berkin\Proje II\Çalışma\153531038\153531038\obj\Debug\153531038.csproj.CopyComplete
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Berkin\Proje II\Çalışma\153531038\153531038\obj\Debug\153531038.dll
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Berkin\Proje II\Çalışma\153531038\153531038\obj\Debug\153531038.pdb
